@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RA-Router-authentication/static/css/main.692c9eb7.css",
+    "main.js": "/RA-Router-authentication/static/js/main.057e1114.js",
+    "static/media/Montserrat-Regular.woff2": "/RA-Router-authentication/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/RA-Router-authentication/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "static/media/Spinner-1s-200px.svg": "/RA-Router-authentication/static/media/Spinner-1s-200px.664363ca15ae4c09e711.svg",
+    "index.html": "/RA-Router-authentication/index.html",
+    "main.692c9eb7.css.map": "/RA-Router-authentication/static/css/main.692c9eb7.css.map",
+    "main.057e1114.js.map": "/RA-Router-authentication/static/js/main.057e1114.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.692c9eb7.css",
+    "static/js/main.057e1114.js"
+  ]
+}
